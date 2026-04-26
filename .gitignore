@@ -1,1 +1,10 @@
-node_modules 
+# Python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env
+
+# models (optional - agar Git LFS use nahi kar rahe)
+*.pkl
